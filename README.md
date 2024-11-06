@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Caspar Albert
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning the Java programming language and OOP concepts after building and hosting this static Bible Study Website. I also know basic C++.
+- 🌱 I’m currently learning the Java programming language and OOP concepts. I also know basic C++.
 - 💞️ I’m looking to collaborate on on these
 - 📫 How to reach me. My email address is** casparalbert@gmail.com**
 - 😄 Pronouns: ...
